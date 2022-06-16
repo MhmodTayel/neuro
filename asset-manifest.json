@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/neuro-ai-tronix/static/css/main.e16f2cd9.css",
+    "main.js": "/neuro-ai-tronix/static/js/main.0cbae251.js",
+    "static/js/787.83ceec3c.chunk.js": "/neuro-ai-tronix/static/js/787.83ceec3c.chunk.js",
+    "static/media/giphy.gif": "/neuro-ai-tronix/static/media/giphy.0740e36170521dad1541.gif",
+    "static/media/alexandr-podvalny-7kWD0Wnc59E-unsplash.jpg": "/neuro-ai-tronix/static/media/alexandr-podvalny-7kWD0Wnc59E-unsplash.1ffb9aa12f97536cac0b.jpg",
+    "static/media/Copy of logo_black.PNG": "/neuro-ai-tronix/static/media/Copy of logo_black.625ac5cdbad94dfc98ee.PNG",
+    "static/media/camera.jpg": "/neuro-ai-tronix/static/media/camera.8c42bfa03ef80e96381c.jpg",
+    "static/media/aboutuspool.jpg": "/neuro-ai-tronix/static/media/aboutuspool.f778240d787cdbd036bc.jpg",
+    "static/media/richard-r-schunemann-ZmZEkO-pb7M-unsplash_ccexpress.jpeg": "/neuro-ai-tronix/static/media/richard-r-schunemann-ZmZEkO-pb7M-unsplash_ccexpress.2125219aaca62741ff71.jpeg",
+    "static/media/taiki-ishikawa-X3Rd_rbUnOc-unsplash.jpg": "/neuro-ai-tronix/static/media/taiki-ishikawa-X3Rd_rbUnOc-unsplash.a93add993b37473c3f55.jpg",
+    "static/media/1.jpg": "/neuro-ai-tronix/static/media/1.5b9e1fc3dcc584f3e969.jpg",
+    "index.html": "/neuro-ai-tronix/index.html",
+    "main.e16f2cd9.css.map": "/neuro-ai-tronix/static/css/main.e16f2cd9.css.map",
+    "main.0cbae251.js.map": "/neuro-ai-tronix/static/js/main.0cbae251.js.map",
+    "787.83ceec3c.chunk.js.map": "/neuro-ai-tronix/static/js/787.83ceec3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e16f2cd9.css",
+    "static/js/main.0cbae251.js"
+  ]
+}
